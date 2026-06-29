@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/sonner";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Collection Page Checker — Audit Shopify collection titles",
+  title: "Collection Page Checker",
   description:
     "Audit your collection product titles in seconds. Paste a Shopify collection and the words each title should contain.",
 };
